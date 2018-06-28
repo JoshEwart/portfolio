@@ -1,0 +1,24 @@
+362 Final Studying-> 1.5 hours- 3:30-5:45 Tuesday 11
+
+Linked lists and time cost for functions
+Chapter 3
+Binary tree
+Avl
+B tree
+Heap
+Hashing
+Sorting algorithms- time efficiency, memory efficiency, or best ratio “n”
+	1. Insertion
+	2. Selection
+	3. ShellSort
+	4. HeapSort
+	5. MergeSort
+	6. QuickSort
+	7. BucketSort
+	8. RaidxSort
+
+Graph algorithms (direct vs indirect)
+
+)
+
+
