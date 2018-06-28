@@ -1,0 +1,10 @@
+energy is intergral[-INF, INF] {(x(t))^2}
+
+Fusion:
+
+X1			 X2	 		 X3						X1			 X2	 		 X3			
+^			 ^			 ^						^			 ^			 ^
+|			 |			 |			vs				 \	 	 |		  /		
+[]			 []			 []						[   [ ]     [ ]     [ ]  ]
+|	 		 |		 	 |									 |
+P(y|x1)		P(y|x2)		P(y|x3)							Machine Learning
